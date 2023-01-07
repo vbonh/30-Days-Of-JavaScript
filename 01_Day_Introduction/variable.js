@@ -1,3 +1,6 @@
+/*
+comments can make code readable, easy to reuse and informative
+*/
 // Declaring different variables of different data types
 let firstName = 'Asabeneh' // first name of a person
 let lastName = 'Yetayeh' // last name of a person
